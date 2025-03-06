@@ -1,0 +1,71 @@
+# General
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+.idea/
+.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite/React (Frontend folder)
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.*.local
+/frontend/.idea/
+/frontend/.vscode/
+
+# TypeScript
+/frontend/*.tsbuildinfo
+
+# Java (Backend folder: phonium)
+/phonium/target/
+/phonium/.mvn/
+/phonium/.classpath
+/phonium/.project
+/phonium/.settings/
+/phonium/.env
+/phonium/.env.local
+/phonium/*.iml
+/phonium/mvnw
+/phonium/mvnw.cmd
+/phonium/.idea/
+/phonium/.vscode/
+
+# Maven specific
+/phonium/pom.xml.tag
+/phonium/pom.xml.releaseBackup
+/phonium/pom.xml.versionsBackup
+/phonium/logs/
+/phonium/.maven/
+/phonium/dependency-reduced-pom.xml
+/phonium/release.properties
+/phonium/buildNumber.properties
+/phonium/.factorypath
+
+# Spring Boot specific
+/phonium/*.jar
+/phonium/*.war
+/phonium/*.ear
+/phonium/logs/
+/phonium/*.log
+
+# OS specific
+*.swp
+*~
+*.swo
+*.bak
+*.tmp
+*.orig

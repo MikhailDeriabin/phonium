@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS Contact (
+  id BIGSERIAL PRIMARY KEY NOT NULL,
+  name VARCHAR(50),
+  phone VARCHAR(31) NOT NULL,
+  description VARCHAR(200)
+);
