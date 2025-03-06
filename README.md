@@ -7,6 +7,12 @@ Ajaa juuri kansiossa:
 - Mene http://localhost:5173/ (sivusto)
 - Mene http://localhost:8080/ (rajapinta)
 
+### Dokumentaatio
+
+[Frontend](https://github.com/MikhailDeriabin/phonium/tree/master/frontend/docs) (Figma)
+
+[Backend](https://github.com/MikhailDeriabin/phonium/tree/master/phonium/docs) (Tietokanta + swagger)
+
 ### Yleinen kuvaus
 
 Sovellus tarjoaa mahdollisuuden hallita puhelinluetteloa.
